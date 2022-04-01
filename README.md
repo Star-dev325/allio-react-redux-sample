@@ -1,22 +1,13 @@
 
 <h1 align="center">
 <br>
-  <a href="https://github.com/leonardomso/react-bolt"><img src="https://i.imgur.com/GpQk5wG.png" alt="React Bolt" width=128"></a>
+  :star:
 <br>
 <br>
-React Bolt
+Star
 </h1>
 
 <p align="center">The best boilerplate for your React projects.</p>
-
-<p align="center">
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License MIT">
-  </a>
-</p>
 
 <hr />
 
@@ -32,14 +23,14 @@ Check out the lite version [here](https://github.com/dephraiim/react-bolt-lite)
 
 This boilerplate features all the latest tools and practices in the industry.
 
-- ⚛ **React** — 16.12.0 with Hooks
-- ♻ **Redux with Redux Thunk** — State Management with middleware to handle async requests
-- 🛠 **Babel** — ES6 syntax, Airbnb & React/Recommended config
-- 🚀 **Webpack**  — Hot Reloading, Code Splitting, Optimized Build
-- 💅 **CSS** — Styled Components, CSS, Sass
-- ✅  **Tests** — Jest, React Testing Library & Cypress
-- 💖  **Lint** — ESlint
-- 🐶  **Husky** — Prevent bad commits
+- **React** — 16.12.0 with Hooks
+- **Redux with Redux Thunk** — State Management with middleware to handle async requests
+- **Babel** — ES6 syntax, Airbnb & React/Recommended config
+- **Webpack**  — Hot Reloading, Code Splitting, Optimized Build
+- **CSS** — Styled Components, CSS, Sass
+- **Tests** — Jest, React Testing Library & Cypress
+- **Lint** — ESlint
+- **Husky** — Prevent bad commits
 
 ## Getting started
 
@@ -58,14 +49,3 @@ This boilerplate features all the latest tools and practices in the industry.
 - `npm run test:watch` - run all tests in watch mode
 - `npm run test:cover` - coverage mode
 - `npm run cypress:open` - starts cypress
-
-## Next features:
-
-- [x] **Hot Module Replacement**: Better HMR support;
-- [x] **CSS/Sass support**: Enable CSS/Sass support;
-- [ ] **PWA**: Turn into a PWA boilerplate;
-- [ ] **SEO**: SEO-ready;
-
-## License
-
-MIT license, Copyright (c) 2018 Leonardo Maldonado.
